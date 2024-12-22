@@ -1,0 +1,23 @@
+[
+    { "id": 1, "plant": "Solar Farm A", "latitude": 34.052, "longitude": -118.243, "startdate": "2024-01-01", "enddate": "2024-12-31" },
+    { "id": 2, "plant": "Wind Turbine B", "latitude": 36.778, "longitude": -119.417, "startdate": "2024-02-15", "enddate": "2024-11-30" },
+    { "id": 3, "plant": "Hydroelectric Plant C", "latitude": 40.712, "longitude": -74.006, "startdate": "2024-03-01", "enddate": "2024-09-30" },
+    { "id": 4, "plant": "Geothermal Station D", "latitude": 37.774, "longitude": -122.419, "startdate": "2024-04-10", "enddate": "2025-03-10" },
+    { "id": 5, "plant": "Nuclear Facility E", "latitude": 39.739, "longitude": -104.990, "startdate": "2024-05-20", "enddate": "2025-05-19" },
+    { "id": 6, "plant": "Solar Farm F", "latitude": 47.606, "longitude": -122.332, "startdate": "2024-06-15", "enddate": "2024-12-31" },
+    { "id": 7, "plant": "Wind Turbine G", "latitude": 41.878, "longitude": -87.629, "startdate": "2024-07-01", "enddate": "2025-06-30" },
+    { "id": 8, "plant": "Hydroelectric Plant H", "latitude": 25.761, "longitude": -80.191, "startdate": "2024-08-01", "enddate": "2024-12-31" },
+    { "id": 9, "plant": "Geothermal Station I", "latitude": 33.448, "longitude": -112.074, "startdate": "2024-09-01", "enddate": "2025-02-28" },
+    { "id": 10, "plant": "Nuclear Facility J", "latitude": 29.760, "longitude": -95.369, "startdate": "2024-10-15", "enddate": "2025-10-14" },
+    { "id": 11, "plant": "Solar Farm K", "latitude": 34.746, "longitude": -92.289, "startdate": "2024-11-01", "enddate": "2025-04-30" },
+    { "id": 12, "plant": "Wind Turbine L", "latitude": 32.715, "longitude": -117.161, "startdate": "2024-12-01", "enddate": "2025-11-30" },
+    { "id": 13, "plant": "Hydroelectric Plant M", "latitude": 38.907, "longitude": -77.037, "startdate": "2025-01-01", "enddate": "2025-12-31" },
+    { "id": 14, "plant": "Geothermal Station N", "latitude": 42.360, "longitude": -71.058, "startdate": "2025-02-15", "enddate": "2025-08-15" },
+    { "id": 15, "plant": "Nuclear Facility O", "latitude": 30.267, "longitude": -97.743, "startdate": "2025-03-01", "enddate": "2025-09-30" },
+    { "id": 16, "plant": "Solar Farm P", "latitude": 39.952, "longitude": -75.165, "startdate": "2025-04-01", "enddate": "2025-12-31" },
+    { "id": 17, "plant": "Wind Turbine Q", "latitude": 36.162, "longitude": -86.781, "startdate": "2025-05-15", "enddate": "2025-10-15" },
+    { "id": 18, "plant": "Hydroelectric Plant R", "latitude": 40.440, "longitude": -79.995, "startdate": "2025-06-01", "enddate": "2025-12-01" },
+    { "id": 19, "plant": "Geothermal Station S", "latitude": 27.950, "longitude": -82.457, "startdate": "2025-07-01", "enddate": "2025-12-31" },
+    { "id": 20, "plant": "Nuclear Facility T", "latitude": 35.227, "longitude": -80.843, "startdate": "2025-08-15", "enddate": "2026-08-14" }
+  ]
+  
